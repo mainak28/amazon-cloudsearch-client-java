@@ -12,7 +12,8 @@ AmazonCloudSearchClient client = new AmazonCloudSearchClient(awsCredentials);
 client.setSearchDomain(searchEndpoint);
 client.setDocumentDomain(documentEndpoint);
 ```
-
+----------------------------------------------------------
+CHANGED DATA
 Adding/Updating Documents
 =========================
 Adding single document:
